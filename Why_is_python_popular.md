@@ -1,0 +1,6 @@
+# Why is python popular?
+- **Easy to learn**: Python syntax is simple and very close to natural language,making it a great language for beginners.
+- **Community Support**: It has a massive community, meaning you'll find lots of tutorials,resources,and libraries.(somany people using ,so any doubt arise we search in google we can clear)
+- **Cross-Platform**:Python works on different operating systems(windows,macOS,Linux etc..)
+- - once code is write,we can run in anywhere
+  **Versatile**: Whether its web development,data analysis,or automation,Python has libraries for almost everything.
