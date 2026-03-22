@@ -1,0 +1,5 @@
+What is python?
+- Python is a high-level, interpreted programming language known for its simplicity and readability.It allows developers to write clear programs for both small and large-scale projects.
+
+- hight level->which is understand for humans(c/python)
+- low level->which is understand for machines/computers(1 0) binary
