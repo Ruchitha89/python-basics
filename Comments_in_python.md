@@ -1,0 +1,16 @@
+# Comments in python
+Comments are ignored by the python interpreter and are used to explain the code or leave notes for yourself or others.They do not affect the execution of the program.
+
+- **Single-line comments** start with **#**:
+- #This is a single-line comment
+ ```python
+  print("Hello,world!")
+  ```
+- **Multi-line comments** can be written using triple quotes("""or''').These are often used to write detailed explanations or temporarily block sections of code:
+- ```python
+  """This is a multiline comment.
+  It can span multiple lines.
+  """
+  ```python
+  print("Hello,Python!")
+  ```
